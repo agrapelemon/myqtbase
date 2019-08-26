@@ -16,7 +16,8 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 SOURCES += \
         a001char_qstring.cpp \
-        a002typeconvert.cpp
+        a002typeconvert.cpp \
+        a003qstring.cpp
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin

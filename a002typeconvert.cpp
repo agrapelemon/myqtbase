@@ -1,7 +1,7 @@
 #include <QCoreApplication>
 #include<QString>
 #include<QDebug>
-int main(int argc, char *argv[])
+int main002(int argc, char *argv[])
 {
     QCoreApplication a(argc, argv);
     if(true)
